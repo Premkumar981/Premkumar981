@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Mastering DSA with Java while building interactive, user-friendly websites with modern web technologies.**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **MERN stack, DSA**
 
