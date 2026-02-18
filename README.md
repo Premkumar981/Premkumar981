@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkumar981" alt="premkumar981" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/premkumarsuru" target="blank"><img src="https://img.shields.io/twitter/follow/premkumarsuru?logo=twitter&style=for-the-badge" alt="premkumarsuru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/surupremkumar" target="blank"><img src="https://img.shields.io/twitter/follow/surupremkumar?logo=twitter&style=for-the-badge" alt="surupremkumar" /></a> </p>
 
 - 🔭 I’m currently working on **Mastering DSA with Java while building interactive, user-friendly websites with modern web technologies.**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/premkumarsuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkumarsuru" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmepremkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmepremkumar" height="30" width="40" /></a>
+<a href="https://twitter.com/surupremkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="premkumarsuru" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/surupremkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsmepremkumar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20705918" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20705918" height="30" width="40" /></a>
 <a href="https://instagram.com/prem_kumar_suru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prem_kumar_suru" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/premkumarsuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="premkumarsuru" height="30" width="40" /></a>
